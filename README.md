@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=LiamLian0727)
 
 <!--
 **LiamLian0727/LiamLian0727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Shijie Lian, welcome to my homepage. My research interests are in computer vision and underwater imagery, with a special focus on image segmentation and restoration.
