@@ -18,7 +18,6 @@
 <be>
 
 ```sh
-~
-$ nohup life > blog.nohup.life &
+$ bash tools/dist_train.sh mylife.py 1 &> blog.life
 ```
 
