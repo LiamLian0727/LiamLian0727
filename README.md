@@ -7,7 +7,7 @@
 <be>
   
 - 🌱 Focus on `Deep Learning` and `Computer Vision`
-- 👨‍🔬 [ENTj](https://www.16personalities.com/entj-personality) personality
+- 👨‍🔬 [ENTJ](https://www.16personalities.com/entj-personality) personality
 - 🏫 Studied at Hainan University
 - 🔭 Love coding | Open Source Enthusiast
 - 💭 Wanna go around the world
