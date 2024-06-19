@@ -7,11 +7,11 @@
 <be>
   
 - 🌱 Focus on `Deep Learning` and `Computer Vision`
-- 👨‍🔬 [ENTJ](https://www.16personalities.com/entj-personality) personality
+- 👨‍🔬 [ENTJ](https://www.16personalities.com/entj-personality) Personality
 - 🏫 Studied at Hainan University
-- 🔭 Love coding | Open Source Enthusiast
-- 💭 Wanna go around the world
-- 😋 Really like oolong tea
+- 🔭 Love Coding | Open Source Enthusiast
+- 💭 Wanna Go Around the World
+- 😋 Really Like Oolong Tea
 
   
 <br>
