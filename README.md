@@ -8,7 +8,7 @@
   
 - 🌱 Focus on `Deep Learning` and `Computer Vision`
 - 👨‍🔬 [ENTJ](https://www.16personalities.com/entj-personality) Personality
-- 🏫 Studied at Hainan University
+- 🏫 Studied at Huazhong University of Science and Technology
 - 🔭 Love Coding | Open Source Enthusiast
 - 💭 Wanna Go Around the World
 - 😋 Really Like Oolong Tea
