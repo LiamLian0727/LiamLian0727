@@ -9,7 +9,7 @@
 - 🌱 Focus on `Deep Learning` and `Computer Vision`
 - 👨‍🔬 [**ENTJ**](https://www.16personalities.com/entj-personality) Personality
 - 🏫 Studied at [**HUST**](https://english.hust.edu.cn/)
-- 🔭 Love Coding | Open Source Enthusiast
+- 🔭 Lifelong learner | Open-source Enthusiast
 - 💭 Wanna Go Around the World
 - 😋 Really Like Oolong Tea
 
