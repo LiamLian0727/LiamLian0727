@@ -11,7 +11,7 @@
 - 🏫 Studied at [**HUST**](https://english.hust.edu.cn/)
 - 🔭 Lifelong Learner | Open-source Enthusiast
 - 💭 Wanna Go Around the World
-- 😋 Really Like Oolong Tea
+- 😋 Like Oolong Tea & Roguelike Game
 
   
 <br>
