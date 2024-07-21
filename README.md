@@ -21,3 +21,6 @@
 $ bash tools/dist_train.sh mylife.py 1 &> blog.life
 ```
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LiamLian0727&theme=github-light&bg_color=white&title_color=black&area_color=black&)
+
+
