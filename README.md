@@ -1,4 +1,4 @@
-### Hi LiamLian0727 there 👋 !
+### Hi LiamLian0727 there 👋 ! <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LiamLian0727.LiamLian0727">
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=LiamLian0727&data=followers,repositories,stars,commits)
 
